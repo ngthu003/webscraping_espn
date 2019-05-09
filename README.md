@@ -15,4 +15,4 @@ Currently, the project is planned to have 4 major parts:
 4.  *Predictive Models*: statistical learning models to expand findings from part 3 further.
 
 *In addition to the PDF file, for viewing the rendered index.html file, please go to*: <br/>
-http://htmlpreview.github.io/?https://github.com/thn003/fifa19_wagedistribution/blob/master/index.html
+http://htmlpreview.github.io/?https://github.com/thn003/webscraping_espn/blob/master/Web%20Scraping%20-%20ESPN%20Soccer%20tables.html
