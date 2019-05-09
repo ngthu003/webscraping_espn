@@ -2,7 +2,7 @@
 
 The project is under progress. Please check back regularly for updates.
 
-**Learning objectives:**
+**Project's objectives:**
 1.  To practice mining data from online website using rvest
 2.  To clean up the mined data into ready-to-use data.frame
 3.  To do exploratory data analysis
